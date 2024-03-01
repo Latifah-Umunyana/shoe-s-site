@@ -45,5 +45,65 @@
 #shoe-hand{
     border-image: 10px;
     margin: 30px;
-    border-image: url(shoe-hand.jpg);
+   
+}
+#lists{
+    display: flex;
+    color: white;
+    gap: 10%;
+    padding: 10px 10px 5px 30px;
+    background-color: ;
+}
+#footer{
+    display: flex;
+    gap: 150px;
+    padding: 50px;
+    color: white;
+    background-color: black;
+}
+#line{
+    color: white;
+}
+#copyright{
+    display: flex;
+}
+#right{
+    display: flex;
+    gap: 40px;
+}
+#icon{
+    display: flex;
+    gap: 5px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 5px;
+    left: 50px;
+    font-size: 400%;
+    color: white;
+  }
+  .bottom-left2 {
+    position: absolute;
+    bottom: 90px;
+    left: 50px;
+    font-size: 150%;
+   
+  }
+  #choose{
+    text-align: center;
+  }
+  #first-row{
+    display: flex;
+    gap: 40px;
+    margin: 5% 20%;
+  }
+  #button1{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 2% 48%;
+  }
+/* #below{ 
+background-color: black;
 }
